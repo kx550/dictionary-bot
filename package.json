@@ -1,6 +1,6 @@
 {
   "name": "dictionary-bot",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A Twitter bot tweeting additions to your system dictionary",
   "main": "index.js",
   "scripts": {
