@@ -1,0 +1,25 @@
+{
+  "name": "dictionary-bot",
+  "version": "0.0.1",
+  "description": "A Twitter bot tweeting additions to your system dictionary",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "standard"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "dictionary"
+  ],
+  "author": "Tim Duvendack <timduvendack@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "twit": "^2.2.9",
+    "watch": "^1.0.2"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
